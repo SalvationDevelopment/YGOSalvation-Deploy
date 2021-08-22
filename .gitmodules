@@ -1,0 +1,6 @@
+[submodule "scripts/released"]
+	path = scripts/released
+	url = https://github.com/Fluorohydride/ygopro-scripts
+[submodule "scripts/unreleased"]
+	path = scripts/unreleased
+	url = https://github.com/Fluorohydride/ygopro-pre-scripts
