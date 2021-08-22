@@ -4,3 +4,15 @@
 [submodule "scripts/unreleased"]
 	path = scripts/unreleased
 	url = https://github.com/Fluorohydride/ygopro-pre-scripts
+[submodule "servers/admin"]
+	path = servers/admin
+	url = https://github.com/SalvationDevelopment/YGOSalvation-Admin
+[submodule "servers/game"]
+	path = servers/game
+	url = https://github.com/SalvationDevelopment/YGOSalvation-Server
+[submodule "servers/database"]
+	path = servers/database
+	url = https://github.com/SalvationDevelopment/YGOSalvation-Database
+[submodule "servers/notifications"]
+	path = servers/notifications
+	url = https://github.com/SalvationDevelopment/YGOSalvation-Notifications
